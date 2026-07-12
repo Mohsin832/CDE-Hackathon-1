@@ -1,0 +1,552 @@
+location_id,station_name,city,country_code,latitude,longitude,pollutant_type,pollutant_value,unit,recorded_at,source
+8088,Peshawar,N/A,PK,34.005852,71.53775,pm25,90.0,µg/m³,2025-03-24T23:00:00Z,openaq_v3
+8156,Karachi,N/A,PK,24.8415,67.0091,pm25,62.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+8634,US Diplomatic Post: Islamabad,Islamabad,PK,33.7235,73.11822,pm25,16.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+8664,US Diplomatic Post: Lahore,Lahore,PK,31.560078,74.33589,pm25,-999.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+233470,Islamabad,N/A,PK,33.725614,73.11602,pm25,62.0,µg/m³,2026-02-16T13:00:00Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm10,49.84,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,temperature,23.49,f,2024-01-19T14:50:42Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm25,24.71,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm1,25.41,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,temperature,25.21,c,2024-02-28T12:42:56Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm1,79.6,µg/m³,2024-04-24T02:03:48Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,temperature,22.98,f,2024-04-24T00:54:24Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm10,179.0,µg/m³,2024-04-24T02:03:48Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm25,41.36,µg/m³,2026-07-11T19:55:56Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,temperature,23.55,c,2024-04-24T02:03:48Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,52.134921073913574,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,33.32668670018514,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,31.552678267161053,c,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,37.06383959452311,%,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,62.44032700856527,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,um003,2535.2807413736978,particles/cm³,2024-10-25T16:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,38.750000953674316,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,59.5,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,70.46666653951009,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,47.61666679382324,%,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,32.300000031789146,c,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,um003,3082.1499837239585,particles/cm³,2024-10-28T05:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,31.045834223429363,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,20.041666666666668,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,28.46666653951009,c,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,35.97500038146973,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,43.3041664759318,%,2024-11-07T13:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm1,27.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm25,45.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm10,233.35611852010092,µg/m³,2025-01-13T23:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,relativehumidity,70.0,%,2026-07-11T20:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,temperature,28.6,c,2026-07-11T20:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,um003,6158.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,pm1,22.38495858510335,µg/m³,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,pm25,33.76099952061971,µg/m³,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,relativehumidity,33.26587470372518,%,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,temperature,27.610374927520752,c,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,um003,1223.0846354166667,particles/cm³,2025-05-17T08:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,pm1,27.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,pm25,45.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,relativehumidity,65.0,%,2026-07-11T20:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,temperature,30.9,c,2026-07-11T20:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,um003,1819.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,pm1,27.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,pm25,42.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,relativehumidity,60.0,%,2026-07-11T20:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,temperature,29.7,c,2026-07-11T20:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,um003,1696.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,pm1,27.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,pm25,43.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,relativehumidity,63.0,%,2026-07-11T20:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,temperature,31.0,c,2026-07-11T20:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,um003,1840.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,pm1,22.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,pm25,37.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,relativehumidity,57.0,%,2026-07-11T20:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,temperature,33.4,c,2026-07-11T20:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,um003,1300.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,pm1,29.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,pm25,48.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,relativehumidity,69.0,%,2026-07-11T20:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,temperature,30.0,c,2026-07-11T20:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,um003,1974.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)","HBFC Society, DHA Phase 5 (Hussainy House)",PK,31.4571645,74.4106586,pm1,23.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)","HBFC Society, DHA Phase 5 (Hussainy House)",PK,31.4571645,74.4106586,pm25,38.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)","HBFC Society, DHA Phase 5 (Hussainy House)",PK,31.4571645,74.4106586,relativehumidity,61.0,%,2026-07-11T20:00:00Z,openaq_v3
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)","HBFC Society, DHA Phase 5 (Hussainy House)",PK,31.4571645,74.4106586,temperature,31.9,c,2026-07-11T20:00:00Z,openaq_v3
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)","HBFC Society, DHA Phase 5 (Hussainy House)",PK,31.4571645,74.4106586,um003,1362.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4535267,Gajju Matta (Kahna),Gajju Matta (Kahna),PK,31.377378,74.350574,pm1,26.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4535267,Gajju Matta (Kahna),Gajju Matta (Kahna),PK,31.377378,74.350574,pm25,43.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4535267,Gajju Matta (Kahna),Gajju Matta (Kahna),PK,31.377378,74.350574,relativehumidity,62.0,%,2026-07-11T20:00:00Z,openaq_v3
+4535267,Gajju Matta (Kahna),Gajju Matta (Kahna),PK,31.377378,74.350574,temperature,32.0,c,2026-07-11T20:00:00Z,openaq_v3
+4535267,Gajju Matta (Kahna),Gajju Matta (Kahna),PK,31.377378,74.350574,um003,1654.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4554236,Rawalpindi Women University,Rawalpindi Women University,PK,33.6452478,73.0646181,pm1,25.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4554236,Rawalpindi Women University,Rawalpindi Women University,PK,33.6452478,73.0646181,pm25,39.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4554236,Rawalpindi Women University,Rawalpindi Women University,PK,33.6452478,73.0646181,relativehumidity,54.0,%,2026-07-11T20:00:00Z,openaq_v3
+4554236,Rawalpindi Women University,Rawalpindi Women University,PK,33.6452478,73.0646181,temperature,31.2,c,2026-07-11T20:00:00Z,openaq_v3
+4554236,Rawalpindi Women University,Rawalpindi Women University,PK,33.6452478,73.0646181,um003,1562.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4554729,Sandha Road,Sandha Road,PK,31.562302,74.3027031,pm1,23.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4554729,Sandha Road,Sandha Road,PK,31.562302,74.3027031,pm25,39.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4554729,Sandha Road,Sandha Road,PK,31.562302,74.3027031,relativehumidity,54.0,%,2026-07-11T20:00:00Z,openaq_v3
+4554729,Sandha Road,Sandha Road,PK,31.562302,74.3027031,temperature,33.8,c,2026-07-11T20:00:00Z,openaq_v3
+4554729,Sandha Road,Sandha Road,PK,31.562302,74.3027031,um003,1479.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4555745,Ravi Road,Ravi Road,PK,31.602875,74.300927,pm1,18.2,µg/m³,2026-07-11T07:00:00Z,openaq_v3
+4555745,Ravi Road,Ravi Road,PK,31.602875,74.300927,pm25,29.2,µg/m³,2026-07-11T07:00:00Z,openaq_v3
+4555745,Ravi Road,Ravi Road,PK,31.602875,74.300927,relativehumidity,49.0,%,2026-07-11T07:00:00Z,openaq_v3
+4555745,Ravi Road,Ravi Road,PK,31.602875,74.300927,temperature,35.0,c,2026-07-11T07:00:00Z,openaq_v3
+4555745,Ravi Road,Ravi Road,PK,31.602875,74.300927,um003,964.0,particles/cm³,2026-07-11T07:00:00Z,openaq_v3
+4556719,"Wasa 3, OHR Office ","Wasa 3, OHR Office ",PK,33.650973,73.0788731,pm1,22.6,µg/m³,2026-04-08T08:00:00Z,openaq_v3
+4556719,"Wasa 3, OHR Office ","Wasa 3, OHR Office ",PK,33.650973,73.0788731,pm25,36.3,µg/m³,2026-04-08T08:00:00Z,openaq_v3
+4556719,"Wasa 3, OHR Office ","Wasa 3, OHR Office ",PK,33.650973,73.0788731,relativehumidity,59.0,%,2026-04-08T08:00:00Z,openaq_v3
+4556719,"Wasa 3, OHR Office ","Wasa 3, OHR Office ",PK,33.650973,73.0788731,temperature,19.4,c,2026-04-08T08:00:00Z,openaq_v3
+4556719,"Wasa 3, OHR Office ","Wasa 3, OHR Office ",PK,33.650973,73.0788731,um003,1482.0,particles/cm³,2026-04-08T08:00:00Z,openaq_v3
+4557686,Shalimar Town,Shalimar Town,PK,31.574289,74.447898,pm1,21.9,µg/m³,2026-07-11T18:00:00Z,openaq_v3
+4557686,Shalimar Town,Shalimar Town,PK,31.574289,74.447898,pm25,35.3,µg/m³,2026-07-11T18:00:00Z,openaq_v3
+4557686,Shalimar Town,Shalimar Town,PK,31.574289,74.447898,relativehumidity,55.0,%,2026-07-11T18:00:00Z,openaq_v3
+4557686,Shalimar Town,Shalimar Town,PK,31.574289,74.447898,temperature,33.8,c,2026-07-11T18:00:00Z,openaq_v3
+4557686,Shalimar Town,Shalimar Town,PK,31.574289,74.447898,um003,1262.0,particles/cm³,2026-07-11T18:00:00Z,openaq_v3
+4565419,Social Welfare Department,Social Welfare Department,PK,33.6278837,73.0924564,pm1,20.1,µg/m³,2026-05-04T08:00:00Z,openaq_v3
+4565419,Social Welfare Department,Social Welfare Department,PK,33.6278837,73.0924564,pm25,29.0,µg/m³,2026-05-04T08:00:00Z,openaq_v3
+4565419,Social Welfare Department,Social Welfare Department,PK,33.6278837,73.0924564,relativehumidity,35.0,%,2026-05-04T08:00:00Z,openaq_v3
+4565419,Social Welfare Department,Social Welfare Department,PK,33.6278837,73.0924564,temperature,30.2,c,2026-05-04T08:00:00Z,openaq_v3
+4565419,Social Welfare Department,Social Welfare Department,PK,33.6278837,73.0924564,um003,1130.0,particles/cm³,2026-05-04T08:00:00Z,openaq_v3
+4565932,WASA Head Office 1,WASA Head Office 1,PK,33.6022915,73.0560117,pm1,24.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4565932,WASA Head Office 1,WASA Head Office 1,PK,33.6022915,73.0560117,pm25,36.5,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4565932,WASA Head Office 1,WASA Head Office 1,PK,33.6022915,73.0560117,relativehumidity,49.0,%,2026-07-11T20:00:00Z,openaq_v3
+4565932,WASA Head Office 1,WASA Head Office 1,PK,33.6022915,73.0560117,temperature,32.3,c,2026-07-11T20:00:00Z,openaq_v3
+4565932,WASA Head Office 1,WASA Head Office 1,PK,33.6022915,73.0560117,um003,1392.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4565933,"IEEE, Punjab University, LHR","IEEE, Punjab University, LHR",PK,31.495322,74.295056,pm1,21.9,µg/m³,2026-07-11T13:00:00Z,openaq_v3
+4565933,"IEEE, Punjab University, LHR","IEEE, Punjab University, LHR",PK,31.495322,74.295056,pm25,33.4,µg/m³,2026-07-11T13:00:00Z,openaq_v3
+4565933,"IEEE, Punjab University, LHR","IEEE, Punjab University, LHR",PK,31.495322,74.295056,relativehumidity,46.0,%,2026-07-11T13:00:00Z,openaq_v3
+4565933,"IEEE, Punjab University, LHR","IEEE, Punjab University, LHR",PK,31.495322,74.295056,temperature,36.5,c,2026-07-11T13:00:00Z,openaq_v3
+4565933,"IEEE, Punjab University, LHR","IEEE, Punjab University, LHR",PK,31.495322,74.295056,um003,1204.0,particles/cm³,2026-07-11T13:00:00Z,openaq_v3
+4566426,Punjab Food Authority,Punjab Food Authority,PK,33.6304566,73.0729694,pm1,23.7,µg/m³,2026-06-17T10:00:00Z,openaq_v3
+4566426,Punjab Food Authority,Punjab Food Authority,PK,33.6304566,73.0729694,pm25,36.7,µg/m³,2026-06-17T10:00:00Z,openaq_v3
+4566426,Punjab Food Authority,Punjab Food Authority,PK,33.6304566,73.0729694,relativehumidity,31.0,%,2026-06-17T10:00:00Z,openaq_v3
+4566426,Punjab Food Authority,Punjab Food Authority,PK,33.6304566,73.0729694,temperature,35.7,c,2026-06-17T10:00:00Z,openaq_v3
+4566426,Punjab Food Authority,Punjab Food Authority,PK,33.6304566,73.0729694,um003,1366.0,particles/cm³,2026-06-17T10:00:00Z,openaq_v3
+4566427,Johar Town,Johar Town,PK,31.460056,74.280672,pm1,94.36036376953125,µg/m³,2026-01-08T05:00:00Z,openaq_v3
+4566427,Johar Town,Johar Town,PK,31.460056,74.280672,pm25,182.34890885786578,µg/m³,2026-01-08T05:00:00Z,openaq_v3
+4566427,Johar Town,Johar Town,PK,31.460056,74.280672,relativehumidity,47.903818165172225,%,2026-01-08T05:00:00Z,openaq_v3
+4566427,Johar Town,Johar Town,PK,31.460056,74.280672,temperature,16.38945472023704,c,2026-01-08T05:00:00Z,openaq_v3
+4566427,Johar Town,Johar Town,PK,31.460056,74.280672,um003,7095.696732954544,particles/cm³,2026-01-08T05:00:00Z,openaq_v3
+4567363,Public Health Engineering,Public Health Engineering,PK,33.6335684,73.0614477,um003,1376.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4567363,Public Health Engineering,Public Health Engineering,PK,33.6335684,73.0614477,pm1,23.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4567363,Public Health Engineering,Public Health Engineering,PK,33.6335684,73.0614477,pm25,38.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4567363,Public Health Engineering,Public Health Engineering,PK,33.6335684,73.0614477,relativehumidity,49.0,%,2026-07-11T20:00:00Z,openaq_v3
+4567363,Public Health Engineering,Public Health Engineering,PK,33.6335684,73.0614477,temperature,32.6,c,2026-07-11T20:00:00Z,openaq_v3
+4567364,"Conservator of Forest, North zone","Conservator of Forest, North zone",PK,33.540583,73.116917,pm1,33.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4567364,"Conservator of Forest, North zone","Conservator of Forest, North zone",PK,33.540583,73.116917,pm25,51.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4567364,"Conservator of Forest, North zone","Conservator of Forest, North zone",PK,33.540583,73.116917,relativehumidity,54.0,%,2026-07-11T20:00:00Z,openaq_v3
+4567364,"Conservator of Forest, North zone","Conservator of Forest, North zone",PK,33.540583,73.116917,temperature,31.4,c,2026-07-11T20:00:00Z,openaq_v3
+4567364,"Conservator of Forest, North zone","Conservator of Forest, North zone",PK,33.540583,73.116917,um003,2200.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4567932,PHA Head Office,PHA Head Office,PK,33.6055187,73.0611438,pm1,24.5,µg/m³,2026-04-27T05:00:00Z,openaq_v3
+4567932,PHA Head Office,PHA Head Office,PK,33.6055187,73.0611438,pm25,35.7,µg/m³,2026-04-27T05:00:00Z,openaq_v3
+4567932,PHA Head Office,PHA Head Office,PK,33.6055187,73.0611438,relativehumidity,28.0,%,2026-04-27T05:00:00Z,openaq_v3
+4567932,PHA Head Office,PHA Head Office,PK,33.6055187,73.0611438,temperature,32.7,c,2026-04-27T05:00:00Z,openaq_v3
+4567932,PHA Head Office,PHA Head Office,PK,33.6055187,73.0611438,um003,1537.0,particles/cm³,2026-04-27T05:00:00Z,openaq_v3
+4568423,Model Town,Model Town,PK,31.491676,74.313288,pm1,27.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4568423,Model Town,Model Town,PK,31.491676,74.313288,pm25,42.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4568423,Model Town,Model Town,PK,31.491676,74.313288,relativehumidity,57.0,%,2026-07-11T20:00:00Z,openaq_v3
+4568423,Model Town,Model Town,PK,31.491676,74.313288,temperature,32.9,c,2026-07-11T20:00:00Z,openaq_v3
+4568423,Model Town,Model Town,PK,31.491676,74.313288,um003,1712.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4568424,E11/4 Sector Islamabad,E11/4 Sector Islamabad,PK,33.698979,72.981907,pm1,22.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4568424,E11/4 Sector Islamabad,E11/4 Sector Islamabad,PK,33.698979,72.981907,pm25,34.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4568424,E11/4 Sector Islamabad,E11/4 Sector Islamabad,PK,33.698979,72.981907,relativehumidity,53.0,%,2026-07-11T20:00:00Z,openaq_v3
+4568424,E11/4 Sector Islamabad,E11/4 Sector Islamabad,PK,33.698979,72.981907,temperature,30.7,c,2026-07-11T20:00:00Z,openaq_v3
+4568424,E11/4 Sector Islamabad,E11/4 Sector Islamabad,PK,33.698979,72.981907,um003,1413.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4579733,WASA 2 (Sufaid tanki),WASA 2 (Sufaid tanki),PK,33.6386254,73.069351,pm1,20.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4579733,WASA 2 (Sufaid tanki),WASA 2 (Sufaid tanki),PK,33.6386254,73.069351,pm25,33.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4579733,WASA 2 (Sufaid tanki),WASA 2 (Sufaid tanki),PK,33.6386254,73.069351,relativehumidity,53.0,%,2026-07-11T20:00:00Z,openaq_v3
+4579733,WASA 2 (Sufaid tanki),WASA 2 (Sufaid tanki),PK,33.6386254,73.069351,temperature,31.9,c,2026-07-11T20:00:00Z,openaq_v3
+4579733,WASA 2 (Sufaid tanki),WASA 2 (Sufaid tanki),PK,33.6386254,73.069351,um003,1141.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4600078,Abasyn University,Abasyn University,PK,34.0321798,71.5864122,pm1,29.4,µg/m³,2026-07-11T18:00:00Z,openaq_v3
+4600078,Abasyn University,Abasyn University,PK,34.0321798,71.5864122,pm25,44.4,µg/m³,2026-07-11T18:00:00Z,openaq_v3
+4600078,Abasyn University,Abasyn University,PK,34.0321798,71.5864122,relativehumidity,43.0,%,2026-07-11T18:00:00Z,openaq_v3
+4600078,Abasyn University,Abasyn University,PK,34.0321798,71.5864122,temperature,32.5,c,2026-07-11T18:00:00Z,openaq_v3
+4600078,Abasyn University,Abasyn University,PK,34.0321798,71.5864122,um003,1947.0,particles/cm³,2026-07-11T18:00:00Z,openaq_v3
+4605118,Small industrial development board(SIDB),Small industrial development board(SIDB),PK,33.9817904,71.5567563,pm1,2.6,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4605118,Small industrial development board(SIDB),Small industrial development board(SIDB),PK,33.9817904,71.5567563,pm25,5.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4605118,Small industrial development board(SIDB),Small industrial development board(SIDB),PK,33.9817904,71.5567563,relativehumidity,43.0,%,2026-07-11T20:00:00Z,openaq_v3
+4605118,Small industrial development board(SIDB),Small industrial development board(SIDB),PK,33.9817904,71.5567563,temperature,32.1,c,2026-07-11T20:00:00Z,openaq_v3
+4605118,Small industrial development board(SIDB),Small industrial development board(SIDB),PK,33.9817904,71.5567563,um003,430.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4605119,College Road,College Road,PK,31.421799,74.274837,pm1,27.5,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4605119,College Road,College Road,PK,31.421799,74.274837,pm25,44.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4605119,College Road,College Road,PK,31.421799,74.274837,um003,1788.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4605119,College Road,College Road,PK,31.421799,74.274837,relativehumidity,59.0,%,2026-07-11T20:00:00Z,openaq_v3
+4605119,College Road,College Road,PK,31.421799,74.274837,temperature,32.5,c,2026-07-11T20:00:00Z,openaq_v3
+4605120,Hayatabad phase 7,Hayatabad phase 7,PK,33.9687263,71.4147126,pm1,42.0,µg/m³,2026-06-12T02:00:00Z,openaq_v3
+4605120,Hayatabad phase 7,Hayatabad phase 7,PK,33.9687263,71.4147126,pm25,54.5,µg/m³,2026-06-12T02:00:00Z,openaq_v3
+4605120,Hayatabad phase 7,Hayatabad phase 7,PK,33.9687263,71.4147126,relativehumidity,61.0,%,2026-06-26T14:00:00Z,openaq_v3
+4605120,Hayatabad phase 7,Hayatabad phase 7,PK,33.9687263,71.4147126,temperature,24.7,c,2026-06-26T14:00:00Z,openaq_v3
+4605120,Hayatabad phase 7,Hayatabad phase 7,PK,33.9687263,71.4147126,um003,737.0,particles/cm³,2026-06-26T14:00:00Z,openaq_v3
+4607067,Shaheed Benazir Women University,Shaheed Benazir Women University,PK,34.0559766,71.5646276,pm1,34.6,µg/m³,2026-07-05T23:00:00Z,openaq_v3
+4607067,Shaheed Benazir Women University,Shaheed Benazir Women University,PK,34.0559766,71.5646276,pm25,53.6,µg/m³,2026-07-05T23:00:00Z,openaq_v3
+4607067,Shaheed Benazir Women University,Shaheed Benazir Women University,PK,34.0559766,71.5646276,relativehumidity,47.0,%,2026-07-05T23:00:00Z,openaq_v3
+4607067,Shaheed Benazir Women University,Shaheed Benazir Women University,PK,34.0559766,71.5646276,temperature,33.1,c,2026-07-05T23:00:00Z,openaq_v3
+4607067,Shaheed Benazir Women University,Shaheed Benazir Women University,PK,34.0559766,71.5646276,um003,2610.0,particles/cm³,2026-07-05T23:00:00Z,openaq_v3
+4607068,NIUIP,NIUIP,PK,33.9935232,71.4440704,pm1,0.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4607068,NIUIP,NIUIP,PK,33.9935232,71.4440704,pm25,0.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4607068,NIUIP,NIUIP,PK,33.9935232,71.4440704,relativehumidity,39.0,%,2026-07-11T20:00:00Z,openaq_v3
+4607068,NIUIP,NIUIP,PK,33.9935232,71.4440704,temperature,33.3,c,2026-07-11T20:00:00Z,openaq_v3
+4607068,NIUIP,NIUIP,PK,33.9935232,71.4440704,um003,198.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4608419,IMSciences Institute Peshwar,IMSciences Institute Peshwar,PK,33.9581864,71.3343512,pm1,8.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4608419,IMSciences Institute Peshwar,IMSciences Institute Peshwar,PK,33.9581864,71.3343512,pm25,19.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4608419,IMSciences Institute Peshwar,IMSciences Institute Peshwar,PK,33.9581864,71.3343512,relativehumidity,43.0,%,2026-07-11T20:00:00Z,openaq_v3
+4608419,IMSciences Institute Peshwar,IMSciences Institute Peshwar,PK,33.9581864,71.3343512,temperature,32.0,c,2026-07-11T20:00:00Z,openaq_v3
+4608419,IMSciences Institute Peshwar,IMSciences Institute Peshwar,PK,33.9581864,71.3343512,um003,675.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4608421,"Assistant Commissioner Office, Allama Iqbal ","Assistant Commissioner Office, Allama Iqbal ",PK,31.47188,74.239512,pm1,0.07952381031853813,µg/m³,2025-08-01T10:00:00Z,openaq_v3
+4608421,"Assistant Commissioner Office, Allama Iqbal ","Assistant Commissioner Office, Allama Iqbal ",PK,31.47188,74.239512,pm25,0.44476192338126047,µg/m³,2025-08-01T10:00:00Z,openaq_v3
+4608421,"Assistant Commissioner Office, Allama Iqbal ","Assistant Commissioner Office, Allama Iqbal ",PK,31.47188,74.239512,relativehumidity,62.17649950299944,%,2025-08-01T10:00:00Z,openaq_v3
+4608421,"Assistant Commissioner Office, Allama Iqbal ","Assistant Commissioner Office, Allama Iqbal ",PK,31.47188,74.239512,temperature,27.7252140045166,c,2025-08-01T10:00:00Z,openaq_v3
+4608421,"Assistant Commissioner Office, Allama Iqbal ","Assistant Commissioner Office, Allama Iqbal ",PK,31.47188,74.239512,um003,35.68788167408535,particles/cm³,2025-08-01T10:00:00Z,openaq_v3
+4608422,Park Road F-8/1 Sector Islamabad,Park Road F-8/1 Sector Islamabad,PK,33.7102628,73.0312832,pm1,4.2,µg/m³,2026-06-04T11:00:00Z,openaq_v3
+4608422,Park Road F-8/1 Sector Islamabad,Park Road F-8/1 Sector Islamabad,PK,33.7102628,73.0312832,pm25,7.9,µg/m³,2026-06-04T11:00:00Z,openaq_v3
+4608422,Park Road F-8/1 Sector Islamabad,Park Road F-8/1 Sector Islamabad,PK,33.7102628,73.0312832,relativehumidity,48.0,%,2026-06-04T11:00:00Z,openaq_v3
+4608422,Park Road F-8/1 Sector Islamabad,Park Road F-8/1 Sector Islamabad,PK,33.7102628,73.0312832,temperature,26.2,c,2026-06-04T11:00:00Z,openaq_v3
+4608422,Park Road F-8/1 Sector Islamabad,Park Road F-8/1 Sector Islamabad,PK,33.7102628,73.0312832,um003,470.0,particles/cm³,2026-06-04T11:00:00Z,openaq_v3
+4608423,WWF Office ,WWF Office ,PK,33.9905988,71.4996196,pm1,4.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4608423,WWF Office ,WWF Office ,PK,33.9905988,71.4996196,pm25,8.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4608423,WWF Office ,WWF Office ,PK,33.9905988,71.4996196,relativehumidity,51.0,%,2026-07-11T20:00:00Z,openaq_v3
+4608423,WWF Office ,WWF Office ,PK,33.9905988,71.4996196,temperature,29.9,c,2026-07-11T20:00:00Z,openaq_v3
+4608423,WWF Office ,WWF Office ,PK,33.9905988,71.4996196,um003,501.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4609261,"Pajian, Raiwind","Pajian, Raiwind",PK,31.299695,74.22505,pm1,27.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4609261,"Pajian, Raiwind","Pajian, Raiwind",PK,31.299695,74.22505,pm25,42.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4609261,"Pajian, Raiwind","Pajian, Raiwind",PK,31.299695,74.22505,relativehumidity,57.0,%,2026-07-11T20:00:00Z,openaq_v3
+4609261,"Pajian, Raiwind","Pajian, Raiwind",PK,31.299695,74.22505,temperature,33.3,c,2026-07-11T20:00:00Z,openaq_v3
+4609261,"Pajian, Raiwind","Pajian, Raiwind",PK,31.299695,74.22505,um003,1741.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4609262,Directorate General Local Gov ,Directorate General Local Gov ,PK,33.9916663,71.435054,pm1,21.5,µg/m³,2026-07-10T12:00:00Z,openaq_v3
+4609262,Directorate General Local Gov ,Directorate General Local Gov ,PK,33.9916663,71.435054,pm25,31.2,µg/m³,2026-07-10T12:00:00Z,openaq_v3
+4609262,Directorate General Local Gov ,Directorate General Local Gov ,PK,33.9916663,71.435054,relativehumidity,33.0,%,2026-07-10T12:00:00Z,openaq_v3
+4609262,Directorate General Local Gov ,Directorate General Local Gov ,PK,33.9916663,71.435054,temperature,38.3,c,2026-07-10T12:00:00Z,openaq_v3
+4609262,Directorate General Local Gov ,Directorate General Local Gov ,PK,33.9916663,71.435054,um003,1299.0,particles/cm³,2026-07-10T12:00:00Z,openaq_v3
+4609307,Khyber Medical University ,Khyber Medical University ,PK,33.989115,71.4359101,pm1,23.2,µg/m³,2026-07-10T10:00:00Z,openaq_v3
+4609307,Khyber Medical University ,Khyber Medical University ,PK,33.989115,71.4359101,pm25,33.9,µg/m³,2026-07-10T10:00:00Z,openaq_v3
+4609307,Khyber Medical University ,Khyber Medical University ,PK,33.989115,71.4359101,relativehumidity,28.0,%,2026-07-10T10:00:00Z,openaq_v3
+4609307,Khyber Medical University ,Khyber Medical University ,PK,33.989115,71.4359101,temperature,40.4,c,2026-07-10T10:00:00Z,openaq_v3
+4609307,Khyber Medical University ,Khyber Medical University ,PK,33.989115,71.4359101,um003,1333.0,particles/cm³,2026-07-10T10:00:00Z,openaq_v3
+4609353,Kahna Hospital ,Kahna Hospital ,PK,31.371023502439286,74.36487268127355,pm1,31.3,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4609353,Kahna Hospital ,Kahna Hospital ,PK,31.371023502439286,74.36487268127355,pm25,51.5,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4609353,Kahna Hospital ,Kahna Hospital ,PK,31.371023502439286,74.36487268127355,relativehumidity,71.0,%,2026-07-11T20:00:00Z,openaq_v3
+4609353,Kahna Hospital ,Kahna Hospital ,PK,31.371023502439286,74.36487268127355,temperature,29.5,c,2026-07-11T20:00:00Z,openaq_v3
+4609353,Kahna Hospital ,Kahna Hospital ,PK,31.371023502439286,74.36487268127355,um003,2191.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4609354,Ashrafia Colony,Ashrafia Colony,PK,34.0268637,71.5772755,pm1,124.90129133860269,µg/m³,2026-01-11T10:00:00Z,openaq_v3
+4609354,Ashrafia Colony,Ashrafia Colony,PK,34.0268637,71.5772755,pm25,235.92280529869925,µg/m³,2026-01-11T10:00:00Z,openaq_v3
+4609354,Ashrafia Colony,Ashrafia Colony,PK,34.0268637,71.5772755,relativehumidity,28.70094448990292,%,2026-01-11T10:00:00Z,openaq_v3
+4609354,Ashrafia Colony,Ashrafia Colony,PK,34.0268637,71.5772755,temperature,20.838819498485986,c,2026-01-11T10:00:00Z,openaq_v3
+4609354,Ashrafia Colony,Ashrafia Colony,PK,34.0268637,71.5772755,um003,9638.27828233507,particles/cm³,2026-01-11T10:00:00Z,openaq_v3
+4614770,EPA Office,EPA Office,PK,33.977293,71.5654702,pm1,20.3,µg/m³,2026-07-10T12:00:00Z,openaq_v3
+4614770,EPA Office,EPA Office,PK,33.977293,71.5654702,pm25,30.7,µg/m³,2026-07-10T12:00:00Z,openaq_v3
+4614770,EPA Office,EPA Office,PK,33.977293,71.5654702,relativehumidity,27.0,%,2026-07-10T12:00:00Z,openaq_v3
+4614770,EPA Office,EPA Office,PK,33.977293,71.5654702,temperature,42.8,c,2026-07-10T12:00:00Z,openaq_v3
+4614770,EPA Office,EPA Office,PK,33.977293,71.5654702,um003,1174.0,particles/cm³,2026-07-10T12:00:00Z,openaq_v3
+4616262,District Health Authority,District Health Authority,PK,33.6333084,73.0488857,pm1,15.5,µg/m³,2026-07-11T08:00:00Z,openaq_v3
+4616262,District Health Authority,District Health Authority,PK,33.6333084,73.0488857,pm25,27.8,µg/m³,2026-07-11T08:00:00Z,openaq_v3
+4616262,District Health Authority,District Health Authority,PK,33.6333084,73.0488857,relativehumidity,43.0,%,2026-07-11T08:00:00Z,openaq_v3
+4616262,District Health Authority,District Health Authority,PK,33.6333084,73.0488857,temperature,36.1,c,2026-07-11T08:00:00Z,openaq_v3
+4616262,District Health Authority,District Health Authority,PK,33.6333084,73.0488857,um003,977.0,particles/cm³,2026-07-11T08:00:00Z,openaq_v3
+4618315,DC Office Murree,DC Office Murree,PK,33.9065558,73.3980069,pm1,34.5688751856486,µg/m³,2025-11-20T09:00:00Z,openaq_v3
+4618315,DC Office Murree,DC Office Murree,PK,33.9065558,73.3980069,pm25,59.238805474175344,µg/m³,2025-11-20T09:00:00Z,openaq_v3
+4618315,DC Office Murree,DC Office Murree,PK,33.9065558,73.3980069,relativehumidity,31.275458322630985,%,2025-11-20T09:00:00Z,openaq_v3
+4618315,DC Office Murree,DC Office Murree,PK,33.9065558,73.3980069,temperature,21.33533325195312,c,2025-11-20T09:00:00Z,openaq_v3
+4618315,DC Office Murree,DC Office Murree,PK,33.9065558,73.3980069,um003,2508.581089952257,particles/cm³,2025-11-20T09:00:00Z,openaq_v3
+4618814,Gulberg III,Gulberg III,PK,31.508051,74.337544,pm1,29.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4618814,Gulberg III,Gulberg III,PK,31.508051,74.337544,pm25,46.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4618814,Gulberg III,Gulberg III,PK,31.508051,74.337544,relativehumidity,61.0,%,2026-07-11T20:00:00Z,openaq_v3
+4618814,Gulberg III,Gulberg III,PK,31.508051,74.337544,temperature,31.3,c,2026-07-11T20:00:00Z,openaq_v3
+4618814,Gulberg III,Gulberg III,PK,31.508051,74.337544,um003,1984.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4629400,"PHA, Sialkot","PHA, Sialkot",PK,32.505567,74.536067,pm1,0.0,µg/m³,2026-03-24T01:00:00Z,openaq_v3
+4629400,"PHA, Sialkot","PHA, Sialkot",PK,32.505567,74.536067,pm25,1.6,µg/m³,2026-03-24T01:00:00Z,openaq_v3
+4629400,"PHA, Sialkot","PHA, Sialkot",PK,32.505567,74.536067,relativehumidity,44.0,%,2026-03-24T01:00:00Z,openaq_v3
+4629400,"PHA, Sialkot","PHA, Sialkot",PK,32.505567,74.536067,temperature,21.0,c,2026-03-24T01:00:00Z,openaq_v3
+4629400,"PHA, Sialkot","PHA, Sialkot",PK,32.505567,74.536067,um003,249.0,particles/cm³,2026-03-24T01:00:00Z,openaq_v3
+4629401,SCCI ,SCCI ,PK,32.507924,74.537957,pm1,26.9,µg/m³,2026-07-11T15:00:00Z,openaq_v3
+4629401,SCCI ,SCCI ,PK,32.507924,74.537957,pm25,40.6,µg/m³,2026-07-11T15:00:00Z,openaq_v3
+4629401,SCCI ,SCCI ,PK,32.507924,74.537957,relativehumidity,50.0,%,2026-07-11T15:00:00Z,openaq_v3
+4629401,SCCI ,SCCI ,PK,32.507924,74.537957,temperature,33.7,c,2026-07-11T15:00:00Z,openaq_v3
+4629401,SCCI ,SCCI ,PK,32.507924,74.537957,um003,1691.0,particles/cm³,2026-07-11T15:00:00Z,openaq_v3
+4630451,Dc Office Sialkot,Dc Office Sialkot,PK,32.505286,74.532952,pm25,1.893928590629782,µg/m³,2025-08-04T09:00:00Z,openaq_v3
+4630451,Dc Office Sialkot,Dc Office Sialkot,PK,32.505286,74.532952,relativehumidity,36.89690480913435,%,2025-08-04T09:00:00Z,openaq_v3
+4630451,Dc Office Sialkot,Dc Office Sialkot,PK,32.505286,74.532952,temperature,43.84618977137974,c,2025-08-04T09:00:00Z,openaq_v3
+4630451,Dc Office Sialkot,Dc Office Sialkot,PK,32.505286,74.532952,um003,167.31023951939173,particles/cm³,2025-08-04T09:00:00Z,openaq_v3
+4630451,Dc Office Sialkot,Dc Office Sialkot,PK,32.505286,74.532952,pm1,0.5242857081549508,µg/m³,2025-08-04T09:00:00Z,openaq_v3
+4645154,Urban Policy Unit,Urban Policy Unit,PK,33.9899378,71.4991258,pm1,24.5,µg/m³,2026-03-05T07:00:00Z,openaq_v3
+4645154,Urban Policy Unit,Urban Policy Unit,PK,33.9899378,71.4991258,pm25,39.8,µg/m³,2026-03-05T07:00:00Z,openaq_v3
+4645154,Urban Policy Unit,Urban Policy Unit,PK,33.9899378,71.4991258,relativehumidity,26.0,%,2026-03-05T07:00:00Z,openaq_v3
+4645154,Urban Policy Unit,Urban Policy Unit,PK,33.9899378,71.4991258,temperature,28.5,c,2026-03-05T07:00:00Z,openaq_v3
+4645154,Urban Policy Unit,Urban Policy Unit,PK,33.9899378,71.4991258,um003,1450.0,particles/cm³,2026-03-05T07:00:00Z,openaq_v3
+4698865,Cantonment,Cantonment,PK,31.539422,74.413792,pm1,23.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4698865,Cantonment,Cantonment,PK,31.539422,74.413792,pm25,37.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4698865,Cantonment,Cantonment,PK,31.539422,74.413792,relativehumidity,59.0,%,2026-07-11T20:00:00Z,openaq_v3
+4698865,Cantonment,Cantonment,PK,31.539422,74.413792,temperature,32.6,c,2026-07-11T20:00:00Z,openaq_v3
+4698865,Cantonment,Cantonment,PK,31.539422,74.413792,um003,1347.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4699919,Pak Arab,Pak Arab,PK,31.418387,74.345283,pm1,1.4,µg/m³,2026-07-02T06:00:00Z,openaq_v3
+4699919,Pak Arab,Pak Arab,PK,31.418387,74.345283,pm25,5.6,µg/m³,2026-07-02T06:00:00Z,openaq_v3
+4699919,Pak Arab,Pak Arab,PK,31.418387,74.345283,relativehumidity,43.0,%,2026-07-02T06:00:00Z,openaq_v3
+4699919,Pak Arab,Pak Arab,PK,31.418387,74.345283,temperature,23.8,c,2026-07-02T06:00:00Z,openaq_v3
+4699919,Pak Arab,Pak Arab,PK,31.418387,74.345283,um003,341.0,particles/cm³,2026-07-02T06:00:00Z,openaq_v3
+4700982,Samanabad,Samanabad,PK,31.541983,74.298065,pm1,36.4,µg/m³,2026-07-10T04:00:00Z,openaq_v3
+4700982,Samanabad,Samanabad,PK,31.541983,74.298065,pm25,50.6,µg/m³,2026-07-10T04:00:00Z,openaq_v3
+4700982,Samanabad,Samanabad,PK,31.541983,74.298065,relativehumidity,50.0,%,2026-07-11T20:00:00Z,openaq_v3
+4700982,Samanabad,Samanabad,PK,31.541983,74.298065,temperature,35.5,c,2026-07-11T20:00:00Z,openaq_v3
+4700982,Samanabad,Samanabad,PK,31.541983,74.298065,um003,0.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4708999,WWF,WWF,PK,32.4598818,74.5130851,pm1,31.5,µg/m³,2026-06-30T05:00:00Z,openaq_v3
+4708999,WWF,WWF,PK,32.4598818,74.5130851,pm25,44.9,µg/m³,2026-06-30T05:00:00Z,openaq_v3
+4708999,WWF,WWF,PK,32.4598818,74.5130851,relativehumidity,49.0,%,2026-06-30T05:00:00Z,openaq_v3
+4708999,WWF,WWF,PK,32.4598818,74.5130851,temperature,34.4,c,2026-06-30T05:00:00Z,openaq_v3
+4708999,WWF,WWF,PK,32.4598818,74.5130851,um003,2220.0,particles/cm³,2026-06-30T05:00:00Z,openaq_v3
+4710567,Regional Ombudsman Office,Regional Ombudsman Office,PK,32.48209,74.52664,pm1,29.0,µg/m³,2026-06-30T04:00:00Z,openaq_v3
+4710567,Regional Ombudsman Office,Regional Ombudsman Office,PK,32.48209,74.52664,pm25,43.2,µg/m³,2026-06-30T04:00:00Z,openaq_v3
+4710567,Regional Ombudsman Office,Regional Ombudsman Office,PK,32.48209,74.52664,relativehumidity,47.0,%,2026-06-30T04:00:00Z,openaq_v3
+4710567,Regional Ombudsman Office,Regional Ombudsman Office,PK,32.48209,74.52664,temperature,34.4,c,2026-06-30T04:00:00Z,openaq_v3
+4710567,Regional Ombudsman Office,Regional Ombudsman Office,PK,32.48209,74.52664,um003,1973.0,particles/cm³,2026-06-30T04:00:00Z,openaq_v3
+4712030,PSGMEA,PSGMEA,PK,32.487371,74.512444,pm1,25.8,µg/m³,2026-07-03T11:00:00Z,openaq_v3
+4712030,PSGMEA,PSGMEA,PK,32.487371,74.512444,pm25,38.9,µg/m³,2026-07-03T11:00:00Z,openaq_v3
+4712030,PSGMEA,PSGMEA,PK,32.487371,74.512444,relativehumidity,35.0,%,2026-07-03T11:00:00Z,openaq_v3
+4712030,PSGMEA,PSGMEA,PK,32.487371,74.512444,temperature,39.8,c,2026-07-03T11:00:00Z,openaq_v3
+4712030,PSGMEA,PSGMEA,PK,32.487371,74.512444,um003,1492.0,particles/cm³,2026-07-03T11:00:00Z,openaq_v3
+4712608,"Craftive  Apparels, Defence Road","Craftive  Apparels, Defence Road",PK,32.49447,74.498977,pm1,34.48120848337809,µg/m³,2025-06-27T01:00:00Z,openaq_v3
+4712608,"Craftive  Apparels, Defence Road","Craftive  Apparels, Defence Road",PK,32.49447,74.498977,pm25,55.220208168029785,µg/m³,2025-06-27T01:00:00Z,openaq_v3
+4712608,"Craftive  Apparels, Defence Road","Craftive  Apparels, Defence Road",PK,32.49447,74.498977,relativehumidity,56.17875067392985,%,2025-06-27T01:00:00Z,openaq_v3
+4712608,"Craftive  Apparels, Defence Road","Craftive  Apparels, Defence Road",PK,32.49447,74.498977,temperature,32.228958447774254,c,2025-06-27T01:00:00Z,openaq_v3
+4712608,"Craftive  Apparels, Defence Road","Craftive  Apparels, Defence Road",PK,32.49447,74.498977,um003,2763.1258951822915,particles/cm³,2025-06-27T01:00:00Z,openaq_v3
+4721112,Agriculture  Office Emnabad Road,Agriculture  Office Emnabad Road,PK,32.465555,74.523957,pm1,22.8,µg/m³,2026-05-12T11:00:00Z,openaq_v3
+4721112,Agriculture  Office Emnabad Road,Agriculture  Office Emnabad Road,PK,32.465555,74.523957,pm25,35.8,µg/m³,2026-05-12T11:00:00Z,openaq_v3
+4721112,Agriculture  Office Emnabad Road,Agriculture  Office Emnabad Road,PK,32.465555,74.523957,relativehumidity,44.0,%,2026-07-11T11:00:00Z,openaq_v3
+4721112,Agriculture  Office Emnabad Road,Agriculture  Office Emnabad Road,PK,32.465555,74.523957,temperature,35.7,c,2026-07-11T11:00:00Z,openaq_v3
+4721112,Agriculture  Office Emnabad Road,Agriculture  Office Emnabad Road,PK,32.465555,74.523957,um003,1156.0,particles/cm³,2026-07-11T11:00:00Z,openaq_v3
+4721113,SWMC,SWMC,PK,32.516512,74.51071,pm1,8.4,µg/m³,2026-04-22T10:00:00Z,openaq_v3
+4721113,SWMC,SWMC,PK,32.516512,74.51071,pm25,14.1,µg/m³,2026-04-22T10:00:00Z,openaq_v3
+4721113,SWMC,SWMC,PK,32.516512,74.51071,relativehumidity,17.0,%,2026-04-22T10:00:00Z,openaq_v3
+4721113,SWMC,SWMC,PK,32.516512,74.51071,temperature,42.3,c,2026-04-22T10:00:00Z,openaq_v3
+4721113,SWMC,SWMC,PK,32.516512,74.51071,um003,690.0,particles/cm³,2026-04-22T10:00:00Z,openaq_v3
+4722655,Divisional Forest office Kotli Araian,Divisional Forest office Kotli Araian,PK,32.59938,74.479594,pm1,22.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4722655,Divisional Forest office Kotli Araian,Divisional Forest office Kotli Araian,PK,32.59938,74.479594,pm25,39.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4722655,Divisional Forest office Kotli Araian,Divisional Forest office Kotli Araian,PK,32.59938,74.479594,relativehumidity,62.0,%,2026-07-11T20:00:00Z,openaq_v3
+4722655,Divisional Forest office Kotli Araian,Divisional Forest office Kotli Araian,PK,32.59938,74.479594,temperature,30.4,c,2026-07-11T20:00:00Z,openaq_v3
+4722655,Divisional Forest office Kotli Araian,Divisional Forest office Kotli Araian,PK,32.59938,74.479594,um003,1370.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4723667,Cheema Palace,Cheema Palace,PK,32.54477,74.569535,pm1,50.442999776204424,µg/m³,2026-01-24T17:00:00Z,openaq_v3
+4723667,Cheema Palace,Cheema Palace,PK,32.54477,74.569535,pm25,84.31405597262912,µg/m³,2026-01-24T17:00:00Z,openaq_v3
+4723667,Cheema Palace,Cheema Palace,PK,32.54477,74.569535,relativehumidity,45.9908886803521,%,2026-01-24T17:00:00Z,openaq_v3
+4723667,Cheema Palace,Cheema Palace,PK,32.54477,74.569535,temperature,15.323277764850193,c,2026-01-24T17:00:00Z,openaq_v3
+4723667,Cheema Palace,Cheema Palace,PK,32.54477,74.569535,um003,3791.1468207465277,particles/cm³,2026-01-24T17:00:00Z,openaq_v3
+4725232,AC  Sambrial,AC  Sambrial,PK,32.477858,74.337355,pm1,106.6,µg/m³,2026-05-07T19:00:00Z,openaq_v3
+4725232,AC  Sambrial,AC  Sambrial,PK,32.477858,74.337355,pm25,164.9,µg/m³,2026-05-07T19:00:00Z,openaq_v3
+4725232,AC  Sambrial,AC  Sambrial,PK,32.477858,74.337355,relativehumidity,41.0,%,2026-05-07T19:00:00Z,openaq_v3
+4725232,AC  Sambrial,AC  Sambrial,PK,32.477858,74.337355,temperature,29.1,c,2026-05-07T19:00:00Z,openaq_v3
+4725232,AC  Sambrial,AC  Sambrial,PK,32.477858,74.337355,um003,7690.0,particles/cm³,2026-05-07T19:00:00Z,openaq_v3
+4755317,Walled cities Authority office ,Walled cities Authority office ,PK,30.19881,71.46818,pm1,58.8,µg/m³,2026-06-09T18:00:00Z,openaq_v3
+4755317,Walled cities Authority office ,Walled cities Authority office ,PK,30.19881,71.46818,pm25,84.6,µg/m³,2026-06-09T18:00:00Z,openaq_v3
+4755317,Walled cities Authority office ,Walled cities Authority office ,PK,30.19881,71.46818,relativehumidity,54.0,%,2026-06-09T18:00:00Z,openaq_v3
+4755317,Walled cities Authority office ,Walled cities Authority office ,PK,30.19881,71.46818,temperature,28.5,c,2026-06-09T18:00:00Z,openaq_v3
+4755317,Walled cities Authority office ,Walled cities Authority office ,PK,30.19881,71.46818,um003,4437.0,particles/cm³,2026-06-09T18:00:00Z,openaq_v3
+4756280,University of Balochistan,University of Balochistan,PK,30.162079,66.989772,pm1,55.5,µg/m³,2026-07-11T17:00:00Z,openaq_v3
+4756280,University of Balochistan,University of Balochistan,PK,30.162079,66.989772,pm25,79.2,µg/m³,2026-07-11T17:00:00Z,openaq_v3
+4756280,University of Balochistan,University of Balochistan,PK,30.162079,66.989772,relativehumidity,23.0,%,2026-07-11T17:00:00Z,openaq_v3
+4756280,University of Balochistan,University of Balochistan,PK,30.162079,66.989772,temperature,31.9,c,2026-07-11T17:00:00Z,openaq_v3
+4756280,University of Balochistan,University of Balochistan,PK,30.162079,66.989772,um003,4100.0,particles/cm³,2026-07-11T17:00:00Z,openaq_v3
+4756281,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20645,71.47604,pm1,26.08495791753133,µg/m³,2025-06-16T09:00:00Z,openaq_v3
+4756281,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20645,71.47604,pm25,40.83570798238119,µg/m³,2025-06-16T09:00:00Z,openaq_v3
+4756281,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20645,71.47604,relativehumidity,35.52358341217041,%,2025-06-16T09:00:00Z,openaq_v3
+4756281,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20645,71.47604,temperature,37.0580415725708,c,2025-06-16T09:00:00Z,openaq_v3
+4756281,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20645,71.47604,um003,1725.0631205240886,particles/cm³,2025-06-16T09:00:00Z,openaq_v3
+4757303,Industries and Commerce,Industries and Commerce,PK,30.17716,67.008202,pm1,2.1,µg/m³,2026-07-01T10:00:00Z,openaq_v3
+4757303,Industries and Commerce,Industries and Commerce,PK,30.17716,67.008202,pm25,5.2,µg/m³,2026-07-01T10:00:00Z,openaq_v3
+4757303,Industries and Commerce,Industries and Commerce,PK,30.17716,67.008202,relativehumidity,11.0,%,2026-07-01T10:00:00Z,openaq_v3
+4757303,Industries and Commerce,Industries and Commerce,PK,30.17716,67.008202,temperature,45.3,c,2026-07-01T10:00:00Z,openaq_v3
+4757303,Industries and Commerce,Industries and Commerce,PK,30.17716,67.008202,um003,399.0,particles/cm³,2026-07-01T10:00:00Z,openaq_v3
+4757304,Quetta Commissioner Office ,Quetta Commissioner Office ,PK,30.197606,67.0101348,pm1,7.323402767711215,µg/m³,2026-01-22T11:00:00Z,openaq_v3
+4757304,Quetta Commissioner Office ,Quetta Commissioner Office ,PK,30.197606,67.0101348,pm25,14.611833333969116,µg/m³,2026-01-22T11:00:00Z,openaq_v3
+4757304,Quetta Commissioner Office ,Quetta Commissioner Office ,PK,30.197606,67.0101348,relativehumidity,36.9022081428104,%,2026-01-22T11:00:00Z,openaq_v3
+4757304,Quetta Commissioner Office ,Quetta Commissioner Office ,PK,30.197606,67.0101348,temperature,7.87922220495012,c,2026-01-22T11:00:00Z,openaq_v3
+4757304,Quetta Commissioner Office ,Quetta Commissioner Office ,PK,30.197606,67.0101348,um003,564.1799293518067,particles/cm³,2026-01-22T11:00:00Z,openaq_v3
+4757305,Forman Christian College & Chartered University,Forman Christian College & Chartered University,PK,31.521146,74.333954,pm1,27.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4757305,Forman Christian College & Chartered University,Forman Christian College & Chartered University,PK,31.521146,74.333954,pm25,45.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4757305,Forman Christian College & Chartered University,Forman Christian College & Chartered University,PK,31.521146,74.333954,relativehumidity,66.0,%,2026-07-11T20:00:00Z,openaq_v3
+4757305,Forman Christian College & Chartered University,Forman Christian College & Chartered University,PK,31.521146,74.333954,temperature,30.8,c,2026-07-11T20:00:00Z,openaq_v3
+4757305,Forman Christian College & Chartered University,Forman Christian College & Chartered University,PK,31.521146,74.333954,um003,1829.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4757794,"Multan Industrial EState, Board of Management","Multan Industrial EState, Board of Management",PK,30.12721,71.38191,pm1,30.039699935913085,µg/m³,2025-06-16T11:00:00Z,openaq_v3
+4757794,"Multan Industrial EState, Board of Management","Multan Industrial EState, Board of Management",PK,30.12721,71.38191,pm25,44.392599487304686,µg/m³,2025-06-16T11:00:00Z,openaq_v3
+4757794,"Multan Industrial EState, Board of Management","Multan Industrial EState, Board of Management",PK,30.12721,71.38191,relativehumidity,38.906700134277344,%,2025-06-16T11:00:00Z,openaq_v3
+4757794,"Multan Industrial EState, Board of Management","Multan Industrial EState, Board of Management",PK,30.12721,71.38191,temperature,35.43219985961914,c,2025-06-16T11:00:00Z,openaq_v3
+4757794,"Multan Industrial EState, Board of Management","Multan Industrial EState, Board of Management",PK,30.12721,71.38191,um003,1988.548193359375,particles/cm³,2025-06-16T11:00:00Z,openaq_v3
+4758328,Multan Industrial Estate,Multan Industrial Estate,PK,30.12714,71.38146,pm1,31.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4758328,Multan Industrial Estate,Multan Industrial Estate,PK,30.12714,71.38146,pm25,47.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4758328,Multan Industrial Estate,Multan Industrial Estate,PK,30.12714,71.38146,relativehumidity,51.0,%,2026-07-11T20:00:00Z,openaq_v3
+4758328,Multan Industrial Estate,Multan Industrial Estate,PK,30.12714,71.38146,temperature,33.4,c,2026-07-11T20:00:00Z,openaq_v3
+4758328,Multan Industrial Estate,Multan Industrial Estate,PK,30.12714,71.38146,um003,2119.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4758816,BUITEMS,BUITEMS,PK,30.2713,66.9379,pm1,5.13100004196167,µg/m³,2025-08-20T08:00:00Z,openaq_v3
+4758816,BUITEMS,BUITEMS,PK,30.2713,66.9379,pm25,15.527833175659179,µg/m³,2025-08-20T08:00:00Z,openaq_v3
+4758816,BUITEMS,BUITEMS,PK,30.2713,66.9379,relativehumidity,20.336000442504883,%,2025-08-20T08:00:00Z,openaq_v3
+4758816,BUITEMS,BUITEMS,PK,30.2713,66.9379,temperature,33.673666381835936,c,2025-08-20T08:00:00Z,openaq_v3
+4758816,BUITEMS,BUITEMS,PK,30.2713,66.9379,um003,537.428173828125,particles/cm³,2025-08-20T08:00:00Z,openaq_v3
+4759316,OSCD,OSCD,PK,30.202854,66.993317,pm1,6.8,µg/m³,2026-04-06T06:00:00Z,openaq_v3
+4759316,OSCD,OSCD,PK,30.202854,66.993317,pm25,12.6,µg/m³,2026-04-06T06:00:00Z,openaq_v3
+4759316,OSCD,OSCD,PK,30.202854,66.993317,relativehumidity,44.0,%,2026-04-06T06:00:00Z,openaq_v3
+4759316,OSCD,OSCD,PK,30.202854,66.993317,temperature,18.2,c,2026-04-06T06:00:00Z,openaq_v3
+4759316,OSCD,OSCD,PK,30.202854,66.993317,um003,547.0,particles/cm³,2026-04-06T06:00:00Z,openaq_v3
+4760841,Metropolitan corporation office ,Metropolitan corporation office ,PK,30.17631,71.48861,pm1,98.4,µg/m³,2026-04-14T09:00:00Z,openaq_v3
+4760841,Metropolitan corporation office ,Metropolitan corporation office ,PK,30.17631,71.48861,pm25,109.4,µg/m³,2026-04-14T09:00:00Z,openaq_v3
+4760841,Metropolitan corporation office ,Metropolitan corporation office ,PK,30.17631,71.48861,relativehumidity,41.0,%,2026-07-11T20:00:00Z,openaq_v3
+4760841,Metropolitan corporation office ,Metropolitan corporation office ,PK,30.17631,71.48861,temperature,33.9,c,2026-07-11T20:00:00Z,openaq_v3
+4760841,Metropolitan corporation office ,Metropolitan corporation office ,PK,30.17631,71.48861,um003,507.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4767238,Institute of Public Health,Institute of Public Health,PK,30.193314,66.955154,pm1,4.4,µg/m³,2026-07-08T08:00:00Z,openaq_v3
+4767238,Institute of Public Health,Institute of Public Health,PK,30.193314,66.955154,pm25,11.7,µg/m³,2026-07-08T08:00:00Z,openaq_v3
+4767238,Institute of Public Health,Institute of Public Health,PK,30.193314,66.955154,relativehumidity,12.0,%,2026-07-08T08:00:00Z,openaq_v3
+4767238,Institute of Public Health,Institute of Public Health,PK,30.193314,66.955154,temperature,38.2,c,2026-07-08T08:00:00Z,openaq_v3
+4767238,Institute of Public Health,Institute of Public Health,PK,30.193314,66.955154,um003,518.0,particles/cm³,2026-07-08T08:00:00Z,openaq_v3
+4767239,NFC IET Multan,NFC IET Multan,PK,30.22382,71.53613,pm1,7.1,µg/m³,2026-07-07T08:00:00Z,openaq_v3
+4767239,NFC IET Multan,NFC IET Multan,PK,30.22382,71.53613,pm25,15.1,µg/m³,2026-07-07T08:00:00Z,openaq_v3
+4767239,NFC IET Multan,NFC IET Multan,PK,30.22382,71.53613,relativehumidity,34.0,%,2026-07-07T08:00:00Z,openaq_v3
+4767239,NFC IET Multan,NFC IET Multan,PK,30.22382,71.53613,temperature,27.2,c,2026-07-07T08:00:00Z,openaq_v3
+4767239,NFC IET Multan,NFC IET Multan,PK,30.22382,71.53613,um003,626.0,particles/cm³,2026-07-07T08:00:00Z,openaq_v3
+4767718,A1 City Housing ,A1 City Housing ,PK,30.185308,66.97113,pm1,8.8,µg/m³,2026-07-07T08:00:00Z,openaq_v3
+4767718,A1 City Housing ,A1 City Housing ,PK,30.185308,66.97113,pm25,22.0,µg/m³,2026-07-07T08:00:00Z,openaq_v3
+4767718,A1 City Housing ,A1 City Housing ,PK,30.185308,66.97113,relativehumidity,37.0,%,2026-07-07T08:00:00Z,openaq_v3
+4767718,A1 City Housing ,A1 City Housing ,PK,30.185308,66.97113,temperature,27.5,c,2026-07-07T08:00:00Z,openaq_v3
+4767718,A1 City Housing ,A1 City Housing ,PK,30.185308,66.97113,um003,711.0,particles/cm³,2026-07-07T08:00:00Z,openaq_v3
+4769229,women university,women university,PK,30.2515,71.57288,pm1,2.8,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4769229,women university,women university,PK,30.2515,71.57288,pm25,6.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4769229,women university,women university,PK,30.2515,71.57288,relativehumidity,43.0,%,2026-07-11T20:00:00Z,openaq_v3
+4769229,women university,women university,PK,30.2515,71.57288,temperature,33.1,c,2026-07-11T20:00:00Z,openaq_v3
+4769229,women university,women university,PK,30.2515,71.57288,um003,404.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4769230,Sheikh Khalifa Bin Zayyad hospital,Sheikh Khalifa Bin Zayyad hospital,PK,30.082855,66.96167,pm1,0.0,µg/m³,2026-03-20T10:00:00Z,openaq_v3
+4769230,Sheikh Khalifa Bin Zayyad hospital,Sheikh Khalifa Bin Zayyad hospital,PK,30.082855,66.96167,pm25,0.1,µg/m³,2026-03-20T10:00:00Z,openaq_v3
+4769230,Sheikh Khalifa Bin Zayyad hospital,Sheikh Khalifa Bin Zayyad hospital,PK,30.082855,66.96167,relativehumidity,19.0,%,2026-03-20T10:00:00Z,openaq_v3
+4769230,Sheikh Khalifa Bin Zayyad hospital,Sheikh Khalifa Bin Zayyad hospital,PK,30.082855,66.96167,temperature,30.3,c,2026-03-20T10:00:00Z,openaq_v3
+4769230,Sheikh Khalifa Bin Zayyad hospital,Sheikh Khalifa Bin Zayyad hospital,PK,30.082855,66.96167,um003,149.0,particles/cm³,2026-03-20T10:00:00Z,openaq_v3
+4770826,Helping hand Balochestan,Helping hand Balochestan,PK,30.240204,67.019051,pm1,2.0,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4770826,Helping hand Balochestan,Helping hand Balochestan,PK,30.240204,67.019051,pm25,5.6,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4770826,Helping hand Balochestan,Helping hand Balochestan,PK,30.240204,67.019051,relativehumidity,13.0,%,2026-07-11T20:00:00Z,openaq_v3
+4770826,Helping hand Balochestan,Helping hand Balochestan,PK,30.240204,67.019051,temperature,32.1,c,2026-07-11T20:00:00Z,openaq_v3
+4770826,Helping hand Balochestan,Helping hand Balochestan,PK,30.240204,67.019051,um003,371.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4770827,Muhammad Nawaz Sharif University of  Agriculture,Muhammad Nawaz Sharif University of  Agriculture,PK,30.1477,71.44326,pm1,176.3,µg/m³,2026-06-15T03:00:00Z,openaq_v3
+4770827,Muhammad Nawaz Sharif University of  Agriculture,Muhammad Nawaz Sharif University of  Agriculture,PK,30.1477,71.44326,pm25,186.4,µg/m³,2026-06-15T03:00:00Z,openaq_v3
+4770827,Muhammad Nawaz Sharif University of  Agriculture,Muhammad Nawaz Sharif University of  Agriculture,PK,30.1477,71.44326,relativehumidity,44.0,%,2026-07-11T20:00:00Z,openaq_v3
+4770827,Muhammad Nawaz Sharif University of  Agriculture,Muhammad Nawaz Sharif University of  Agriculture,PK,30.1477,71.44326,temperature,33.0,c,2026-07-11T20:00:00Z,openaq_v3
+4770827,Muhammad Nawaz Sharif University of  Agriculture,Muhammad Nawaz Sharif University of  Agriculture,PK,30.1477,71.44326,um003,566.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4771376,EPA OFFICE,EPA OFFICE,PK,30.217964,66.977745,pm1,1.7,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4771376,EPA OFFICE,EPA OFFICE,PK,30.217964,66.977745,pm25,3.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4771376,EPA OFFICE,EPA OFFICE,PK,30.217964,66.977745,relativehumidity,13.0,%,2026-07-11T20:00:00Z,openaq_v3
+4771376,EPA OFFICE,EPA OFFICE,PK,30.217964,66.977745,temperature,30.6,c,2026-07-11T20:00:00Z,openaq_v3
+4771376,EPA OFFICE,EPA OFFICE,PK,30.217964,66.977745,um003,312.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4771378,Cantt Public School & College,Cantt Public School & College,PK,30.1827,71.43621,pm1,282.3,µg/m³,2026-07-08T15:00:00Z,openaq_v3
+4771378,Cantt Public School & College,Cantt Public School & College,PK,30.1827,71.43621,pm25,285.1,µg/m³,2026-07-08T15:00:00Z,openaq_v3
+4771378,Cantt Public School & College,Cantt Public School & College,PK,30.1827,71.43621,relativehumidity,38.0,%,2026-07-10T17:00:00Z,openaq_v3
+4771378,Cantt Public School & College,Cantt Public School & College,PK,30.1827,71.43621,temperature,37.4,c,2026-07-10T17:00:00Z,openaq_v3
+4771378,Cantt Public School & College,Cantt Public School & College,PK,30.1827,71.43621,um003,940.0,particles/cm³,2026-07-10T17:00:00Z,openaq_v3
+4771882,Dearchitecture House no C-36,Dearchitecture House no C-36,PK,30.208897,67.002403,pm1,17.4,µg/m³,2026-07-07T12:00:00Z,openaq_v3
+4771882,Dearchitecture House no C-36,Dearchitecture House no C-36,PK,30.208897,67.002403,pm25,27.4,µg/m³,2026-07-07T12:00:00Z,openaq_v3
+4771882,Dearchitecture House no C-36,Dearchitecture House no C-36,PK,30.208897,67.002403,relativehumidity,41.0,%,2026-07-07T12:00:00Z,openaq_v3
+4771882,Dearchitecture House no C-36,Dearchitecture House no C-36,PK,30.208897,67.002403,temperature,27.0,c,2026-07-07T12:00:00Z,openaq_v3
+4771882,Dearchitecture House no C-36,Dearchitecture House no C-36,PK,30.208897,67.002403,um003,972.0,particles/cm³,2026-07-07T12:00:00Z,openaq_v3
+4779254,District officer Industries / Registrar of Firms,District officer Industries / Registrar of Firms,PK,30.207826,71.439894,pm1,127.96600036621093,µg/m³,2025-11-27T03:00:00Z,openaq_v3
+4779254,District officer Industries / Registrar of Firms,District officer Industries / Registrar of Firms,PK,30.207826,71.439894,pm25,262.46600341796875,µg/m³,2025-11-27T03:00:00Z,openaq_v3
+4779254,District officer Industries / Registrar of Firms,District officer Industries / Registrar of Firms,PK,30.207826,71.439894,relativehumidity,63.90400009155273,%,2025-11-27T03:00:00Z,openaq_v3
+4779254,District officer Industries / Registrar of Firms,District officer Industries / Registrar of Firms,PK,30.207826,71.439894,temperature,13.550000190734863,c,2025-11-27T03:00:00Z,openaq_v3
+4779254,District officer Industries / Registrar of Firms,District officer Industries / Registrar of Firms,PK,30.207826,71.439894,um003,8976.701953125,particles/cm³,2025-11-27T03:00:00Z,openaq_v3
+4779736,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20654,71.4762,pm1,133.7,µg/m³,2026-05-30T10:00:00Z,openaq_v3
+4779736,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20654,71.4762,pm25,167.3,µg/m³,2026-05-30T10:00:00Z,openaq_v3
+4779736,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20654,71.4762,relativehumidity,37.0,%,2026-07-11T13:00:00Z,openaq_v3
+4779736,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20654,71.4762,temperature,38.3,c,2026-07-11T13:00:00Z,openaq_v3
+4779736,"WASA office, Chungi #09","WASA office, Chungi #09",PK,30.20654,71.4762,um003,1169.0,particles/cm³,2026-07-11T13:00:00Z,openaq_v3
+4780772,"UC office, khushal colony","UC office, khushal colony",PK,30.20817,71.49625,pm1,45.74755588107639,µg/m³,2026-01-30T10:00:00Z,openaq_v3
+4780772,"UC office, khushal colony","UC office, khushal colony",PK,30.20817,71.49625,pm25,70.42288852267795,µg/m³,2026-01-30T10:00:00Z,openaq_v3
+4780772,"UC office, khushal colony","UC office, khushal colony",PK,30.20817,71.49625,relativehumidity,38.50711097717285,%,2026-01-30T10:00:00Z,openaq_v3
+4780772,"UC office, khushal colony","UC office, khushal colony",PK,30.20817,71.49625,temperature,27.037666765848797,c,2026-01-30T10:00:00Z,openaq_v3
+4780772,"UC office, khushal colony","UC office, khushal colony",PK,30.20817,71.49625,um003,3479.340559895833,particles/cm³,2026-01-30T10:00:00Z,openaq_v3
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ","House#E/21 B,Khayaban Ali Housing scheme ",PK,29.35128,71.69255,pm1,20.9,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ","House#E/21 B,Khayaban Ali Housing scheme ",PK,29.35128,71.69255,pm25,33.4,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ","House#E/21 B,Khayaban Ali Housing scheme ",PK,29.35128,71.69255,relativehumidity,39.0,%,2026-07-11T20:00:00Z,openaq_v3
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ","House#E/21 B,Khayaban Ali Housing scheme ",PK,29.35128,71.69255,temperature,36.3,c,2026-07-11T20:00:00Z,openaq_v3
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ","House#E/21 B,Khayaban Ali Housing scheme ",PK,29.35128,71.69255,um003,1151.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4790880,PHA Bahawalpur,PHA Bahawalpur,PK,29.38746,71.70984,pm1,18.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4790880,PHA Bahawalpur,PHA Bahawalpur,PK,29.38746,71.70984,pm25,31.6,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4790880,PHA Bahawalpur,PHA Bahawalpur,PK,29.38746,71.70984,relativehumidity,40.0,%,2026-07-11T20:00:00Z,openaq_v3
+4790880,PHA Bahawalpur,PHA Bahawalpur,PK,29.38746,71.70984,temperature,36.5,c,2026-07-11T20:00:00Z,openaq_v3
+4790880,PHA Bahawalpur,PHA Bahawalpur,PK,29.38746,71.70984,um003,1002.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4791416,Allama iqbal hospital,Allama iqbal hospital,PK,32.503689,74.547365,pm1,66.325,µg/m³,2026-02-12T04:00:00Z,openaq_v3
+4791416,Allama iqbal hospital,Allama iqbal hospital,PK,32.503689,74.547365,pm25,104.8551668802897,µg/m³,2026-02-12T04:00:00Z,openaq_v3
+4791416,Allama iqbal hospital,Allama iqbal hospital,PK,32.503689,74.547365,relativehumidity,51.944833564758305,%,2026-02-12T04:00:00Z,openaq_v3
+4791416,Allama iqbal hospital,Allama iqbal hospital,PK,32.503689,74.547365,temperature,17.010166708628336,c,2026-02-12T04:00:00Z,openaq_v3
+4791416,Allama iqbal hospital,Allama iqbal hospital,PK,32.503689,74.547365,um003,4827.478157552083,particles/cm³,2026-02-12T04:00:00Z,openaq_v3
+4791923,Commissioner Office,Commissioner Office,PK,29.39228,71.69131,pm1,20.9,µg/m³,2026-07-11T15:00:00Z,openaq_v3
+4791923,Commissioner Office,Commissioner Office,PK,29.39228,71.69131,pm25,31.0,µg/m³,2026-07-11T15:00:00Z,openaq_v3
+4791923,Commissioner Office,Commissioner Office,PK,29.39228,71.69131,relativehumidity,41.0,%,2026-07-11T15:00:00Z,openaq_v3
+4791923,Commissioner Office,Commissioner Office,PK,29.39228,71.69131,temperature,37.2,c,2026-07-11T15:00:00Z,openaq_v3
+4791923,Commissioner Office,Commissioner Office,PK,29.39228,71.69131,um003,1221.0,particles/cm³,2026-07-11T15:00:00Z,openaq_v3
+4791924,Urban Resource Center,Urban Resource Center,PK,24.868,67.081833,um003,1004.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+4791924,Urban Resource Center,Urban Resource Center,PK,24.868,67.081833,pm1,17.1,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4791924,Urban Resource Center,Urban Resource Center,PK,24.868,67.081833,pm25,30.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4791924,Urban Resource Center,Urban Resource Center,PK,24.868,67.081833,relativehumidity,58.0,%,2026-07-11T20:00:00Z,openaq_v3
+4791924,Urban Resource Center,Urban Resource Center,PK,24.868,67.081833,temperature,31.5,c,2026-07-11T20:00:00Z,openaq_v3
+4792427,Grand Asian University,Grand Asian University,PK,32.437542,74.577984,pm1,29.5,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4792427,Grand Asian University,Grand Asian University,PK,32.437542,74.577984,pm25,48.2,µg/m³,2026-07-11T20:00:00Z,openaq_v3
+4792427,Grand Asian University,Grand Asian University,PK,32.437542,74.577984,relativehumidity,62.0,%,2026-07-11T20:00:00Z,openaq_v3
+4792427,Grand Asian University,Grand Asian University,PK,32.437542,74.577984,temperature,30.8,c,2026-07-11T20:00:00Z,openaq_v3
+4792427,Grand Asian University,Grand Asian University,PK,32.437542,74.577984,um003,2076.0,particles/cm³,2026-07-11T20:00:00Z,openaq_v3
+8088,Peshawar,N/A,PK,34.005852,71.53775,pm25,90.0,µg/m³,2025-03-24T23:00:00Z,openaq_v3
+8156,Karachi,N/A,PK,24.8415,67.0091,pm25,62.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+8634,US Diplomatic Post: Islamabad,Islamabad,PK,33.7235,73.11822,pm25,16.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+8664,US Diplomatic Post: Lahore,Lahore,PK,31.560078,74.33589,pm25,-999.0,µg/m³,2025-03-04T12:00:00Z,openaq_v3
+233470,Islamabad,N/A,PK,33.725614,73.11602,pm25,62.0,µg/m³,2026-02-16T13:00:00Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm10,49.84,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,temperature,23.49,f,2024-01-19T14:50:42Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm25,24.71,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,pm1,25.41,µg/m³,2024-02-28T12:42:56Z,openaq_v3
+1894633,"Karachi, Pakistan","Karachi, Pakistan",PK,24.811053632574033,67.05825434267292,temperature,25.21,c,2024-02-28T12:42:56Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm1,79.6,µg/m³,2024-04-24T02:03:48Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,temperature,22.98,f,2024-04-24T00:54:24Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm10,179.0,µg/m³,2024-04-24T02:03:48Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,pm25,39.66,µg/m³,2026-07-11T21:57:14Z,openaq_v3
+1894641,Lahore,Lahore,PK,31.54815,74.34396,temperature,23.55,c,2024-04-24T02:03:48Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,52.134921073913574,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,33.32668670018514,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,31.552678267161053,c,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,37.06383959452311,%,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,62.44032700856527,µg/m³,2024-10-25T16:00:00Z,openaq_v3
+3089895,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,um003,2535.2807413736978,particles/cm³,2024-10-25T16:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,38.750000953674316,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,59.5,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,70.46666653951009,µg/m³,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,47.61666679382324,%,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,32.300000031789146,c,2024-10-28T05:00:00Z,openaq_v3
+3182341,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,um003,3082.1499837239585,particles/cm³,2024-10-28T05:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm25,31.045834223429363,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm1,20.041666666666668,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,temperature,28.46666653951009,c,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,pm10,35.97500038146973,µg/m³,2024-11-07T13:00:00Z,openaq_v3
+3213801,"Soomra Society, Scheme 33, Karachi","Soomra Society, Scheme 33, Karachi",PK,24.960929,67.161759,relativehumidity,43.3041664759318,%,2024-11-07T13:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm1,28.5,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm25,47.5,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,pm10,233.35611852010092,µg/m³,2025-01-13T23:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,relativehumidity,72.0,%,2026-07-11T22:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,temperature,28.2,c,2026-07-11T22:00:00Z,openaq_v3
+3292849,Farhan Shah Labs,Farhan Shah Labs,PK,32.424312,74.52885,um003,6629.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,pm1,22.38495858510335,µg/m³,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,pm25,33.76099952061971,µg/m³,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,relativehumidity,33.26587470372518,%,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,temperature,27.610374927520752,c,2025-05-17T08:00:00Z,openaq_v3
+4296966,Buraq integrated solutions,Buraq integrated solutions,PK,33.643208,73.068119,um003,1223.0846354166667,particles/cm³,2025-05-17T08:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,pm1,29.2,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,pm25,47.9,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,relativehumidity,67.0,%,2026-07-11T22:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,temperature,30.1,c,2026-07-11T22:00:00Z,openaq_v3
+4515157,"Barki, Lahore","Barki, Lahore",PK,31.4591591,74.5396309,um003,1962.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,pm1,0.0,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,pm25,0.7,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,relativehumidity,60.0,%,2026-07-11T22:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,temperature,27.0,c,2026-07-11T22:00:00Z,openaq_v3
+4515644,"F-7, Islamabad","F-7, Islamabad",PK,33.7213352,73.0560998,um003,189.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,pm1,28.2,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,pm25,44.9,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,relativehumidity,66.0,%,2026-07-11T22:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,temperature,30.4,c,2026-07-11T22:00:00Z,openaq_v3
+4527035,Civil Secretariat,Civil Secretariat,PK,31.565942,74.2993626,um003,1889.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,pm1,25.3,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,pm25,41.8,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,relativehumidity,58.0,%,2026-07-11T22:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,temperature,33.1,c,2026-07-11T22:00:00Z,openaq_v3
+4527173,Learning Alliance Intl. DHA,Learning Alliance Intl. DHA,PK,31.525621,74.436078,um003,1562.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,pm1,33.7,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,pm25,56.1,µg/m³,2026-07-11T22:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,relativehumidity,72.0,%,2026-07-11T22:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,temperature,28.9,c,2026-07-11T22:00:00Z,openaq_v3
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,FOOT & MOUTH DISEASE RESEARCH CENTRE,PK,31.53574,74.43538,um003,2476.0,particles/cm³,2026-07-11T22:00:00Z,openaq_v3
